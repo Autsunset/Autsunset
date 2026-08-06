@@ -5,7 +5,7 @@
   <!-- 打字机标题（动态） -->
   <p>
     <a href="https://github.com/Autsunset">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3200&pause=600&color=8A2BE2&center=true&vCenter=true&width=460&lines=Android+%2F+Flutter+Developer;AI+Tooling+%26+Vision+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3200&pause=600&color=8A2BE2&center=true&vCenter=true&width=460&lines=LLM+Apps+%26+AI+Tooling;Vision+%26+Multimodal;Android+%26+Side+Projects;Turning+Ideas+into+Products" alt="Typing SVG" />
     </a>
   </p>
 
@@ -22,9 +22,9 @@
 
 ## 🧑‍💻 关于我 / About Me
 
-你好，我是 **Autsunset** —— 一名热爱开源的开发者，专注于 **Android / Flutter 应用** 与 **AI 工具链**，喜欢把想法落地成可用的产品。
+你好，我是 **Autsunset** —— 一名热爱开源的开发者。喜欢折腾 **LLM 应用 / AI 工具链**、**视觉多模态**和 **Android 端侧应用**，比起给自己贴单一标签，更享受把想法落地成能用的产品。
 
-Hi, I'm **Autsunset** — an open-source developer passionate about **Android / Flutter apps** and **AI tooling**. I enjoy turning ideas into products people actually use.
+Hi, I'm **Autsunset** — an open-source developer who tinkers across **LLM apps & AI tooling**, **vision / multimodal**, and **Android apps**. Rather than sticking to one lane, I enjoy turning ideas into products people actually use.
 
 - 🔭 最近在做 / Currently: [epic-free](https://github.com/Autsunset/epic-free)（统一 Gemini/GLM/OpenAI 的 LLM 调用层 / a unified LLM provider layer）
 - 🌱 正在学 / Learning: LLM 应用工程、多模态视觉
